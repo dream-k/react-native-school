@@ -4,7 +4,7 @@
   "dependencies": {
     "@expo/vector-icons": "^6.3.1",
     "ReactNative-checkbox": "^1.0.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "expo": "^26.0.0",
     "firebase": "^4.11.0",
     "lodash": "^4.17.10",
